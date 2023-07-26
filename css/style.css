@@ -46,7 +46,8 @@ p {
   position: fixed;
   top: 0;
   left: 0;
-  height: 8px;
+  height: 6px;
+  border-end-end-radius: 5px;
   background: linear-gradient(to right, #ff5f6d, #ffc371);
   width: 0%;
   z-index: 100;
