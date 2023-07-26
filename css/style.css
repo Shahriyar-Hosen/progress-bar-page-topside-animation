@@ -13,12 +13,11 @@ main {
   width: 90%;
   max-width: 700px;
   margin: 0 auto;
-  margin-top: 20px;
   margin-bottom: 50px;
 }
 
 h2 {
-  font-size: 4rem;
+  font-size: 3rem;
   padding: 50px 0;
   font-weight: bold;
   text-align: center;
