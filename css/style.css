@@ -46,9 +46,19 @@ p {
   position: fixed;
   top: 0;
   left: 0;
-  height: 6px;
+  height: 7px;
   border-end-end-radius: 5px;
   background: linear-gradient(to right, #ff5f6d, #ffc371);
+  background-image: linear-gradient(
+    45deg,
+    rgb(252, 163, 17) 25%,
+    #ff5f6d,
+    #ffc371,
+    rgb(252, 163, 17) 50%,
+    rgb(252, 163, 17) 75%,
+    #ff5f6d,
+    #ffc371
+  );
   width: 0%;
   z-index: 100;
   transition: width 0s ease-out;
