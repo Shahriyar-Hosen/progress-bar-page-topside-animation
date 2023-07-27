@@ -25,3 +25,8 @@ const animateProgressBar = () => {
 
 window.addEventListener("scroll", animateProgressBar);
 ```
+
+<hr/>
+
+## Video Preview
+https://github.com/Shahriyar-Hosen/progress-bar-page-topside-animation/assets/96829173/49e81bac-ff96-4fc4-a31e-d79d1e3d29f1
