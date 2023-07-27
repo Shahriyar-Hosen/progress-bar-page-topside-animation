@@ -1,13 +1,5 @@
 <h1 align="center">Reading Progress Bar Animation <br/> with <br/> HTML CSS JavaScript</h1>
 
-<div align="center">
-<p align="center" style="font-size: 40px; margin: 0; padding: 0;">
-    Reading Progress Bar Animation
-</p>
-<p style="font-size: 30px; margin: 0; padding: 0;">with</p>
-<p align="center" style="font-size: 35px; margin: 0; padding: 0;">HTML CSS JavaScript</p>
-</div>
-
 ### JavaScript
 
 ```js
