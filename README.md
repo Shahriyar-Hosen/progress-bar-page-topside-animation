@@ -1,7 +1,9 @@
-<div align="center"> 
-    <p align="center">Reading Progress Bar Animation</p> 
-    <p>with</p> 
-    <p align="center">HTML CSS JavaScript</p>
+<div align="center">
+<p align="center" style="font-size: 40px; margin: 0; padding: 0;">
+    Reading Progress Bar Animation
+</p>
+<p style="font-size: 30px; margin: 0; padding: 0;">with</p>
+<p align="center" style="font-size: 35px; margin: 0; padding: 0;">HTML CSS JavaScript</p>
 </div>
 
 ### JavaScript
