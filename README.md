@@ -29,4 +29,5 @@ window.addEventListener("scroll", animateProgressBar);
 <hr/>
 
 ## Video Preview
-https://github.com/Shahriyar-Hosen/progress-bar-page-topside-animation/assets/96829173/49e81bac-ff96-4fc4-a31e-d79d1e3d29f1
+
+[![Reading Progress Bar Animation with HTML CSS JavaScript](https://github.com/Shahriyar-Hosen/progress-bar-page-topside-animation/assets/96829173/58ab4ff0-185c-4a24-8818-c1d2d4fa7620)](https://github.com/Shahriyar-Hosen/progress-bar-page-topside-animation/assets/96829173/49e81bac-ff96-4fc4-a31e-d79d1e3d29f1)
