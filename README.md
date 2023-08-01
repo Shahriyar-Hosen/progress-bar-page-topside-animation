@@ -5,6 +5,7 @@
 ```js
 // progressBar main div
 const progressBar = document.querySelector("#progress-bar");
+
 //Whichever div will work based
 const mainBlogSection = document.querySelector("main");
 
